@@ -1,0 +1,46 @@
+{
+    "waves": [
+        {
+            "amplitude": 10,
+            "frequency_hz": 20,
+            "strategy_name": "triangular",
+            "sampling_rate": 44100,
+            "duration": 1
+        },
+        {
+            "amplitude": 100,
+            "frequency_hz": 100,
+            "strategy_name": "cuadrada",
+            "sampling_rate": 44100,
+            "duration": 1
+        },
+        {
+            "amplitude": 200,
+            "frequency_hz": 220,
+            "strategy_name": "",
+            "sampling_rate": 44100,
+            "duration": 1
+        },
+        {
+            "amplitude": 200,
+            "frequency_hz": 100,
+            "strategy_name": "cierra",
+            "sampling_rate": 44100,
+            "duration": 1
+        },
+        {
+            "amplitude": 200,
+            "frequency_hz": 10,
+            "strategy_name": "cierra_inversa",
+            "sampling_rate": 44100,
+            "duration": 1
+        },
+        {
+            "amplitude": 200,
+            "frequency_hz": 10,
+            "strategy_name": "cierra_exponencial",
+            "sampling_rate": 44100,
+            "duration": 1
+        }
+    ]
+}
